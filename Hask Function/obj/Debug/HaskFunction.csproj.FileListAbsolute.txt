@@ -1,0 +1,7 @@
+D:\Education\Semester 2\Create cloud computing services\Assessment\Hask Function\Hask Function\bin\Debug\Hask Function.exe.config
+D:\Education\Semester 2\Create cloud computing services\Assessment\Hask Function\Hask Function\bin\Debug\Hask Function.exe
+D:\Education\Semester 2\Create cloud computing services\Assessment\Hask Function\Hask Function\bin\Debug\Hask Function.pdb
+D:\Education\Semester 2\Create cloud computing services\Assessment\Hask Function\Hask Function\obj\Debug\HaskFunction.csprojAssemblyReference.cache
+D:\Education\Semester 2\Create cloud computing services\Assessment\Hask Function\Hask Function\obj\Debug\HaskFunction.csproj.CoreCompileInputs.cache
+D:\Education\Semester 2\Create cloud computing services\Assessment\Hask Function\Hask Function\obj\Debug\Hask Function.exe
+D:\Education\Semester 2\Create cloud computing services\Assessment\Hask Function\Hask Function\obj\Debug\Hask Function.pdb
